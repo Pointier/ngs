@@ -1,7 +1,6 @@
 #!bin/bash
 
 conda activate ngs
-# Variable
 
 # Creation index
 idxFile=chr16.fa.gz
