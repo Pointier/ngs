@@ -4,8 +4,7 @@ Commande pour executer script :
     source script.sh
 
 installation.sh va telecharger les fichiers requis dans les bon dossier
-
-et creer l'environnement conda nécessaire
+et creer l'environnement conda nécessaire.
 
 script.sh exécute la pipeline.
 
